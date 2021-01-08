@@ -78,5 +78,4 @@ public class ImageRequester {
         final int screenBytes = displayMetrics.widthPixels * displayMetrics.heightPixels * 4;
         return screenBytes * 3;
     }
-
 }
